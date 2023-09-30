@@ -1,4 +1,4 @@
-# Uptimes Lab: Incident Response Simulation
+# Incident Response Simulation
 
 ## Overview
 
